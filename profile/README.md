@@ -9,7 +9,6 @@
 
 
 ## 📊 活跃数据
-以下是我们组织的贡献和活动统计：
 ![访客统计](https://visitor-badge.laobi.icu/badge?page_id=top-java-course.profile)
 
 ---
